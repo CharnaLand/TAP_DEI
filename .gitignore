@@ -1,0 +1,15 @@
+#Ignore everything
+/*
+
+#Except for my project
+!.gitignore
+!MatriceL
+!PartitionareaIntervalelor/
+!README.md
+
+#Also ignore some stuff inside the good folders
+MatriceL/bin
+MatriceL/obj
+MatriceL/*.cbp
+MatriceL/*.depend
+MatriceL/*.layout
